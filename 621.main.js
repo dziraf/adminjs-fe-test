@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrst_frame_app=self.webpackChunkrst_frame_app||[]).push([[621],{85651:(a,t,e)=>{e.r(t),e.d(t,{default:()=>i});var n=e(35466),r=e(18657),p={url:"https://adminjs-dev.herokuapp.com",paths:{loginPath:"/admin/login",logoutPath:"/admin/logout",rootPath:"/admin"}};const i=function(a){var t=new r.ApiClient(p);return n.createElement(r.AdminJS,{api:t})}}}]);

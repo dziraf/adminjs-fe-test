@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrst_frame_app=self.webpackChunkrst_frame_app||[]).push([[301],{24035:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});var r=n(35466),t=n(30615);const s=function(){return r.createElement(t.Region,{name:"main"})}}}]);
