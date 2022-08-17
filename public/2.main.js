@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkrst_frame_app=self.webpackChunkrst_frame_app||[]).push([[2],{32821:(e,p,s)=>{s.r(p),s.d(p,{default:()=>a});const a=s(18657).ApiClient}}]);
+"use strict";(self.webpackChunkrst_frame_app=self.webpackChunkrst_frame_app||[]).push([[2],{32821:(a,t,e)=>{e.r(t),e.d(t,{default:()=>p});const p=new(e(18657).ApiClient)({url:"https://adminjs-dev.herokuapp.com",paths:{loginPath:"/admin/login",logoutPath:"/admin/logout",rootPath:"/admin"}})}}]);

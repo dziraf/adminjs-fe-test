@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrst_frame_app=self.webpackChunkrst_frame_app||[]).push([[916],{20921:(s,e,p)=>{p.r(e),p.d(e,{default:()=>a}),p(35466);const a=function(s){console.log("CustomPage - props",s)}}}]);
